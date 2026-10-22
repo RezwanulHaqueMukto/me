@@ -1,0 +1,471 @@
+[
+  {
+    "id": "city-asphalt-services",
+    "title": "City Asphalt Services",
+    "label": "Website Redesign",
+    "description": "I redesigned the City Asphalt Services website using WordPress and Elementor Pro, delivering a modern, responsive, and user-focused experience. The project involved rebuilding page layouts, improving navigation, and creating a clean visual design that better represents the company’s asphalt and civil construction services. I optimized the website for desktop, tablet, and mobile devices, ensuring consistent performance across all screen sizes. Additionally, I enhanced loading speed, implemented SEO-friendly page structures, and integrated contact and quote request forms to improve user engagement. The redesigned website provides a professional online presence that effectively showcases the company’s services and encourages potential customers to get in touch.",
+    "tags": [
+      "Elementor",
+      "Custom code"
+    ],
+    "filters": [
+      "design"
+    ],
+    "image": "assets/images/projects/city-asphalt-services.jpg",
+    "imageFit": false,
+    "url": "https://cityasphaltservices.com.au/",
+    "linkLabel": "Live site"
+  },
+  {
+    "id": "la-va",
+    "title": "La-va",
+    "label": "Web Design and Development",
+    "description": "I developed the LA-VA Australia eCommerce website using WordPress, Elementor Pro, and the Shoptimizer theme. The project focused on creating a modern, responsive online store that delivers a seamless shopping experience across all devices. I customized the theme to match the client’s branding, built engaging landing pages with Elementor Pro, optimized product and category layouts, and improved navigation for better usability. I also enhanced website performance, loading speed, and SEO while ensuring a clean and intuitive user interface. The final result is a scalable, high-performing eCommerce website that effectively showcases products and supports a smooth purchasing experience.",
+    "tags": [
+      "WooCommerce",
+      "Elementor"
+    ],
+    "filters": [
+      "design",
+      "dev",
+      "ecom",
+      "woo"
+    ],
+    "image": "assets/images/projects/la-va.jpg",
+    "imageFit": false,
+    "url": "https://la-va.com.au/",
+    "linkLabel": "Live site"
+  },
+  {
+    "id": "hans-in-luck",
+    "title": "Hans in Luck",
+    "label": "Web Design and Development",
+    "description": "Developed the Hans in Luck Australia eCommerce website using WordPress, WooCommerce, and the Shoptimizer theme, delivering a fast, responsive, and conversion-focused online store. Customized product pages, category layouts, cart, and checkout functionality to enhance the shopping experience. Tailored the Shoptimizer theme to meet the client’s branding and business requirements using HTML, CSS, JavaScript, and PHP. Optimized website performance, SEO, and Core Web Vitals to improve loading speed and user engagement. Ensured cross-browser compatibility, mobile responsiveness, and clean, maintainable code while delivering a scalable and easy-to-manage eCommerce solution.",
+    "tags": [
+      "WooCommerce",
+      "PHP"
+    ],
+    "filters": [
+      "design",
+      "dev",
+      "ecom",
+      "woo"
+    ],
+    "image": "assets/images/projects/hans-in-luck.jpg",
+    "imageFit": false,
+    "url": "https://hansinluck.com.au/",
+    "linkLabel": "Live site"
+  },
+  {
+    "id": "preserver",
+    "title": "Preserver",
+    "label": "Web Design and Development",
+    "description": "Developed the Preserver Australia eCommerce website using WordPress, Bricks Builder, and WooCommerce, delivering a fast, responsive, and user-friendly online shopping experience. Built custom layouts and reusable templates while ensuring pixel-perfect implementation across all devices. Customized WooCommerce product pages, cart, and checkout functionality to meet business requirements. Integrated WP Rocket for performance optimization, Rank Math SEO for improved search visibility, Mailchimp for email marketing, and Google Tag Manager with Pixel Manager for analytics and conversion tracking. Implemented custom HTML, CSS, JavaScript, PHP, and AJAX functionality, ensuring clean code, excellent performance, cross-browser compatibility, and a scalable, maintainable website.",
+    "tags": [
+      "Bricks",
+      "WooCommerce",
+      "AJAX"
+    ],
+    "filters": [
+      "design",
+      "dev",
+      "ecom",
+      "woo"
+    ],
+    "image": "assets/images/projects/preserver.jpg",
+    "imageFit": false,
+    "url": "https://preserver.au/",
+    "linkLabel": "Live site"
+  },
+  {
+    "id": "foldabl-homes",
+    "title": "Foldäbl Homes",
+    "label": "Web Design and Development",
+    "description": "Developed the Foldäbl Homes Australia website using WordPress and Elementor Pro, delivering a modern, responsive, and user-friendly experience. Built reusable templates and customized layouts based on client requirements while ensuring pixel-perfect implementation across desktop, tablet, and mobile devices. Optimized website performance, SEO, and Core Web Vitals to improve loading speed and search visibility. Customized HTML, CSS, JavaScript, and PHP to implement unique features and enhance functionality. Integrated contact forms and lead generation sections to support business goals. Ensured cross-browser compatibility, clean code practices, and ongoing maintenance, resulting in a scalable, high-performing website with an intuitive user experience.",
+    "tags": [
+      "Elementor",
+      "Custom code"
+    ],
+    "filters": [
+      "design",
+      "dev",
+      "ecom",
+      "woo"
+    ],
+    "image": "assets/images/projects/foldabl-homes.jpg",
+    "imageFit": false,
+    "url": "https://foldabl.com.au/",
+    "linkLabel": "Live site"
+  },
+  {
+    "id": "kendra-sommer",
+    "title": "Kendra Sommer",
+    "label": "Web design",
+    "description": "I developed the Kendra Sommer website using WordPress, Astra, and Elementor Pro, creating a modern and visually engaging platform that showcases her work as an automotive reporter, producer, and entrepreneur. I customized the website with responsive page layouts, improved navigation, and a clean user interface to provide an engaging browsing experience across all devices. I optimized website performance, implemented SEO-friendly page structures, and ensured fast loading speeds while maintaining design consistency. The final result is a professional, scalable website that effectively highlights her portfolio, media appearances, blog, and personal brand.",
+    "tags": [
+      "Astra",
+      "Elementor"
+    ],
+    "filters": [
+      "design"
+    ],
+    "image": "assets/images/projects/kendra-sommer.jpg",
+    "imageFit": false,
+    "url": "https://kendrasommer.com/",
+    "linkLabel": "Live site"
+  },
+  {
+    "id": "wpsensi",
+    "title": "Wpsensi",
+    "label": "Web Development and Web Design",
+    "description": "Redesigning the Wpsensi website was an exciting project focused on clarity, usability, and conversion optimization. I revamped the homepage with a clean, modern layout, emphasizing key services like SEO, Google Ads, email marketing, and web development. Clear calls-to-action were strategically placed to guide users toward inquiries and consultations.",
+    "tags": [
+      "WooCommerce",
+      "Elementor"
+    ],
+    "filters": [
+      "design",
+      "dev",
+      "woo"
+    ],
+    "image": "assets/images/projects/wpsensi.jpg",
+    "imageFit": false,
+    "url": "https://wpsensi.com/",
+    "linkLabel": "Live site"
+  },
+  {
+    "id": "intellect-healthcare",
+    "title": "Intellect Healthcare",
+    "label": "Redesign",
+    "description": "The Intellect Healthcare Marketing website has undergone a comprehensive redesign to enhance user experience and streamline navigation. The homepage now features a clean, modern layout with clear calls to action, guiding visitors through their services and offerings.",
+    "tags": [
+      "CSS",
+      "JS",
+      "Elementor"
+    ],
+    "filters": [
+      "design"
+    ],
+    "image": "assets/images/projects/intellect-healthcare.jpg",
+    "imageFit": false,
+    "url": "https://intellecthealthcare.com/",
+    "linkLabel": "Live site"
+  },
+  {
+    "id": "yuri-cruz-creative",
+    "title": "Yuri Cruz Creative",
+    "label": "Web design",
+    "description": "I developed the Yuri Cruz Creative website using WordPress and Elementor Pro, creating a modern, visually engaging, and fully responsive website that reflects the client’s creative brand and professional services. I built custom page layouts, refined the visual hierarchy, and ensured a seamless user experience across desktop, tablet, and mobile devices. The project focused on clean design, smooth navigation, and performance optimization while maintaining consistency with the client’s branding. I also implemented SEO-friendly page structures and optimized loading speed to deliver a fast, scalable, and user-friendly website that effectively showcases the client’s portfolio and creative expertise.",
+    "tags": [
+      "Elementor",
+      "Custom code"
+    ],
+    "filters": [
+      "design"
+    ],
+    "image": "assets/images/projects/yuri-cruz-creative.jpg",
+    "imageFit": false,
+    "url": "https://yuricruzcreative.com/",
+    "linkLabel": "Live site"
+  },
+  {
+    "id": "empower-wellness-kc",
+    "title": "Empower Wellness KC",
+    "label": "Web design",
+    "description": "As a designer, I approached the Empower Wellness KC site with clarity and empathy in mind. The site’s bold, uplifting visuals, like vibrant color blocks and energetic iconography, immediately set an encouraging tone.",
+    "tags": [
+      "WordPress",
+      "Elementor"
+    ],
+    "filters": [
+      "design"
+    ],
+    "image": "assets/images/projects/empower-wellness-kc.jpg",
+    "imageFit": false,
+    "url": "https://empowerwellnesskc.com/",
+    "linkLabel": "Live site"
+  },
+  {
+    "id": "city-linemarking",
+    "title": "City Linemarking",
+    "label": "Web Design",
+    "description": "As the designer for City Linemarking’s website, my goal was to create a clean, professional, and highly functional interface that reflects their expertise in line marking services. I focused on clarity and hierarchy, organizing services like carparks, warehouses, sports courts, and road marking into visually distinct sections for easy navigation. High-quality images and icons were used to illustrate each service, enhancing engagement and trust. I prioritized mobile responsiveness, ensuring the site performs seamlessly across devices.",
+    "tags": [
+      "Elementor",
+      "Custom code"
+    ],
+    "filters": [
+      "design"
+    ],
+    "image": "assets/images/projects/city-linemarking.jpg",
+    "imageFit": false,
+    "url": "https://www.citylinemarking.com.au/",
+    "linkLabel": "Live site"
+  },
+  {
+    "id": "scy-solutions",
+    "title": "SCY Solutions",
+    "label": "Web Design",
+    "description": "As the designer behind the SCY Solutions website, my focus was on crafting a professional, innovation-driven presence that showcases the company’s technical expertise and industry leadership. The homepage opens with a concise, impactful tagline, “Value Through Innovation”, setting the tone for a firm that excels in advanced process control and structural engineering.",
+    "tags": [
+      "Elementor",
+      "Custom code"
+    ],
+    "filters": [
+      "design"
+    ],
+    "image": "assets/images/projects/scy-solutions.jpg",
+    "imageFit": false,
+    "url": "https://scysolutions.com/",
+    "linkLabel": "Live site"
+  },
+  {
+    "id": "kenshi-security",
+    "title": "Kenshi Security",
+    "label": "Web Development and Web design",
+    "description": "As a designer, I approached the Kenshi Security site with clarity and precision to reflect its elite anti-cheat and anti-bot expertise. The design showcases bold, trust-inspiring typography and a streamlined layout.",
+    "tags": [
+      "Elementor",
+      "CSS",
+      "JS"
+    ],
+    "filters": [
+      "design",
+      "dev"
+    ],
+    "image": "assets/images/projects/kenshi-security.jpg",
+    "imageFit": false,
+    "url": "https://kenshisecurity.com/",
+    "linkLabel": "Live site"
+  },
+  {
+    "id": "nicu-coach",
+    "title": "Nicu Coach",
+    "label": "Elementor, Custom design",
+    "description": "Developed a responsive landing page using Elementor, creating a clean and user-friendly layout based on the client’s design requirements. Built custom sections and organized content to provide a clear user experience across desktop, tablet, and mobile devices. Ensured pixel-perfect implementation, responsive design, and cross-browser compatibility. Optimized page structure and loading performance while maintaining clean and consistent styling. Integrated contact forms and call-to-action sections to support lead generation, delivering a modern, visually appealing, and easy-to-manage landing page.",
+    "tags": [
+      "Elementor",
+      "CSS"
+    ],
+    "filters": [
+      "design",
+      "dev"
+    ],
+    "image": "assets/images/projects/nicu-coach.jpg",
+    "imageFit": false,
+    "url": "https://nicu.coach/",
+    "linkLabel": "Live site"
+  },
+  {
+    "id": "uni-marine-services",
+    "title": "Uni Marine Services",
+    "label": "Elementor Custom Design",
+    "description": "Developed the Uni Marine Services website using WordPress, creating a modern, responsive, and professional corporate website for the marine automation industry. Built custom page layouts and reusable sections to effectively showcase the company’s services, products, certifications, and technical expertise. Ensured a fully responsive design across desktop, tablet, and mobile devices with a strong focus on usability and performance. Optimized website speed, SEO, and Core Web Vitals while implementing clean HTML, CSS, JavaScript, and PHP customizations. Delivered a scalable, user-friendly website with intuitive navigation, cross-browser compatibility, and a polished user experience tailored to the client’s business objectives.",
+    "tags": [
+      "Elementor",
+      "JS"
+    ],
+    "filters": [
+      "design",
+      "dev"
+    ],
+    "image": "assets/images/projects/uni-marine-services.jpg",
+    "imageFit": false,
+    "url": "https://unimarine.com.sg/",
+    "linkLabel": "Live site"
+  },
+  {
+    "id": "elementor-widgets",
+    "title": "Elementor Widgets",
+    "label": "Elementor Widget Development",
+    "description": "Developed some widgets like team info viewers, accordion, carousel slider, image viewer, etc.",
+    "tags": [
+      "PHP",
+      "JS",
+      "CSS"
+    ],
+    "filters": [
+      "dev",
+      "wp"
+    ],
+    "image": "assets/images/projects/elementor-widgets.jpg",
+    "imageFit": true,
+    "url": "https://github.com/RezwanulHaqueMukto/elementor-addons",
+    "linkLabel": "GitHub",
+    "docUrl": "https://github.com/RezwanulHaqueMukto/elementor-addons"
+  },
+  {
+    "id": "custom-login-page",
+    "title": "Custom Login Page",
+    "label": "Custom login page",
+    "description": "The GitHub repository hosts a lightweight WordPress plugin designed to customize the default login page. This plugin allows developers, designers, and agencies to create a branded login experience for clients.",
+    "tags": [
+      "PHP",
+      "Plugin"
+    ],
+    "filters": [
+      "dev",
+      "wp"
+    ],
+    "image": "assets/images/projects/custom-login-page.jpg",
+    "imageFit": false,
+    "url": "https://github.com/RezwanulHaqueMukto/wp-custom-login-page-by-rez",
+    "linkLabel": "GitHub",
+    "docUrl": "https://github.com/RezwanulHaqueMukto/wp-custom-login-page-by-rez/blob/main/README.md"
+  },
+  {
+    "id": "finanza",
+    "title": "Finanza",
+    "label": "WP custom Theme Development",
+    "description": "Finanza is a WordPress theme designed for financial consultancy and investment advisory services. This theme offers a professional and clean design, tailored to meet the needs of financial experts and firms. Key features: customizable layouts, custom post types, responsive design, SEO optimized, and custom options panels.",
+    "tags": [
+      "Bootstrap 5",
+      "PHP"
+    ],
+    "filters": [
+      "dev",
+      "wp"
+    ],
+    "image": "assets/images/projects/finanza.jpg",
+    "imageFit": true,
+    "url": "https://github.com/RezwanulHaqueMukto/finanzaManiya/",
+    "linkLabel": "GitHub",
+    "docUrl": "https://github.com/RezwanulHaqueMukto/finanzaManiya/blob/main/README.md"
+  },
+  {
+    "id": "organi",
+    "title": "Organi",
+    "label": "WordPress custom Theme",
+    "description": "I developed a custom WordPress theme tailored for organic food stores and health-focused businesses. The design is clean, modern, and product-centric, highlighting fresh produce and eco-friendly goods. I integrated WooCommerce for seamless e-commerce functionality, ensuring easy product management and smooth checkout experiences. Custom post types were created for products, testimonials, and team members, allowing flexible content management.",
+    "tags": [
+      "WooCommerce",
+      "ACF"
+    ],
+    "filters": [
+      "dev",
+      "ecom",
+      "woo",
+      "wp"
+    ],
+    "image": "assets/images/projects/organi.jpg",
+    "imageFit": true,
+    "url": "https://github.com/RezwanulHaqueMukto/organi_wp_template-",
+    "linkLabel": "GitHub",
+    "docUrl": "https://github.com/RezwanulHaqueMukto/organi_wp_template-"
+  },
+  {
+    "id": "travel-agency",
+    "title": "Travel Agency",
+    "label": "Travel website",
+    "description": "A travel agency landing page focused on modern destination promotion, clear call-to-action sections, and a polished customer-first layout. The project highlights destination discovery, package selling, and an engaging visual style suited for a travel brand.",
+    "tags": [
+      "Travel",
+      "Landing Page",
+      "Responsive"
+    ],
+    "filters": [
+      "design",
+      "dev"
+    ],
+    "image": "assets/images/projects/travel-agency.svg",
+    "imageFit": false,
+    "url": "https://github.com/RezwanulHaqueMukto/travel-agency-",
+    "linkLabel": "GitHub"
+  },
+  {
+    "id": "wordpress-theme-course",
+    "title": "WordPress Theme Course",
+    "label": "WordPress Theme Development",
+    "description": "WordPress Theme Development with Projects is a practical course that teaches how to build custom WordPress themes from scratch. Covering PHP, HTML, CSS, and WordPress functions, it guides learners through real projects, emphasizing theme structure, customization, and best practices. By the end, students can create professional, dynamic, and fully functional WordPress websites.",
+    "tags": [
+      "WordPress",
+      "PHP"
+    ],
+    "filters": [
+      "cert"
+    ],
+    "image": "assets/images/projects/wordpress-theme-course.jpg",
+    "imageFit": true
+  },
+  {
+    "id": "git-and-github",
+    "title": "Git and GitHub",
+    "label": "Git and GitHub",
+    "description": "Master Git and GitHub – Beginner to Expert is a comprehensive course that teaches version control from the ground up. Starting with Git basics, commits, branches, and merges, it progresses to advanced workflows, collaboration, and GitHub features. Hands-on exercises help learners confidently manage code, track changes, and contribute to real-world projects.",
+    "tags": [
+      "Git",
+      "GitHub"
+    ],
+    "filters": [
+      "cert"
+    ],
+    "image": "assets/images/projects/git-and-github.jpg",
+    "imageFit": false,
+    "url": "https://www.udemy.com/certificate/UC-1e2c91a3-0405-40bb-9481-b14822d4f848/",
+    "linkLabel": "Certificate"
+  },
+  {
+    "id": "tailwind-css",
+    "title": "Tailwind CSS",
+    "label": "Tailwind CSS",
+    "description": "Learn Utility-First Tailwind CSS from Scratch & Build Multiple Projects teaches modern, efficient web styling using Tailwind CSS. Starting with core concepts like utility classes, responsive design, and customization, the course guides learners through multiple real-world projects. It emphasizes best practices, workflow optimization, and creating clean, scalable, and visually appealing front-end designs.",
+    "tags": [
+      "Tailwind"
+    ],
+    "filters": [
+      "cert"
+    ],
+    "image": "assets/images/projects/tailwind-css.jpg",
+    "imageFit": false,
+    "url": "https://www.udemy.com/certificate/UC-9973babe-9742-4751-819a-77da1f2ec9e0/",
+    "linkLabel": "Certificate"
+  },
+  {
+    "id": "bootstrap-5",
+    "title": "Bootstrap 5",
+    "label": "Bootstrap 5",
+    "description": "Bootstrap 5 Essential Training: With Projects is a hands-on course designed to teach responsive web design using Bootstrap 5. It covers grids, components, utilities, and customization while guiding learners through real-world projects. By building practical websites, students gain confidence, understand mobile-first design, and master modern front-end development efficiently.",
+    "tags": [
+      "Bootstrap"
+    ],
+    "filters": [
+      "cert"
+    ],
+    "image": "assets/images/projects/bootstrap-5.jpg",
+    "imageFit": false,
+    "url": "https://www.udemy.com/certificate/UC-d360a252-f745-46b3-ab84-2fb7affd1aab/",
+    "linkLabel": "Certificate"
+  },
+  {
+    "id": "javascript-algorithms",
+    "title": "JavaScript Algorithms",
+    "label": "JavaScript Algorithms and Data Structures",
+    "description": "Cracking freeCodeCamp’s JavaScript Algorithms and Data Structures felt amazing! The logo became a badge of persistence. I mastered loops, functions, arrays, and objects, honed problem-solving skills, and learned to think algorithmically. It boosted my confidence, sharpened my coding logic, and prepared me for real-world projects and coding challenges.",
+    "tags": [
+      "JavaScript"
+    ],
+    "filters": [
+      "cert"
+    ],
+    "image": "assets/images/projects/javascript-algorithms.jpg",
+    "imageFit": true,
+    "url": "https://www.freecodecamp.org/certification/fcc94c0eea4-32be-49f0-b052-07133af070be/javascript-algorithms-and-data-structures",
+    "linkLabel": "Certificate"
+  },
+  {
+    "id": "cpanel-mastery",
+    "title": "cPanel Mastery",
+    "label": "cPanel",
+    "description": "cPanel Mastery: Complete Guide to Website Hosting Control empowers professionals to manage websites with ease. It covers domain setup, file management, email accounts, security, backups, and database handling. With step-by-step guidance, users gain confidence in optimizing performance, ensuring reliability, and streamlining hosting tasks for a seamless website management experience.",
+    "tags": [
+      "cPanel"
+    ],
+    "filters": [
+      "cert"
+    ],
+    "image": "assets/images/projects/cpanel-mastery.jpg",
+    "imageFit": false,
+    "url": "https://codersfoundation.com/certificate/?cert_hash=d8708ad86e1760e0",
+    "linkLabel": "Certificate"
+  }
+]
