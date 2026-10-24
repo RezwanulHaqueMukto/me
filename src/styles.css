@@ -287,15 +287,16 @@ h1 {
 }
 
 .headline-typed {
-  display: inline-flex;
-  align-items: baseline;
-  min-width: 18ch;
-  white-space: nowrap;
+  display: inline;
+  max-width: 100%;
+  white-space: normal;
 }
 
 .typing-text {
-  display: inline-block;
+  display: inline;
   font-size: 0.9em;
+  overflow-wrap: anywhere;
+  word-break: break-word;
 }
 
 .typing-cursor {
