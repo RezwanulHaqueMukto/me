@@ -1561,6 +1561,18 @@ h1 {
     font-size: 13px;
   }
 
+  body,
+  p,
+  li,
+  .nav-links>a:not(.nav-contact),
+  .hero-intro,
+  .timeline-detail ul,
+  .project-content p,
+  .skill-card p,
+  .contact-subtitle {
+    font-size: 10px;
+  }
+
   .nav-contact {
     justify-content: space-between;
     margin-top: 12px;
@@ -1747,6 +1759,10 @@ h1 {
 
   .timeline-detail {
     grid-column: 2;
+  }
+
+  .timeline-detail ul {
+    font-size: 11px;
   }
 
   .timeline-detail h3 {
