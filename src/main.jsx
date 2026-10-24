@@ -40,11 +40,11 @@ const experience = [
 	},
 	{
 		period: "2022 — Present",
-		role: "Freelance Web Developer",
+		role: "Freelance Full-Stack Developer",
 		place: "Independent",
 		points: [
 			"Create and improve WordPress websites, landing pages, and e-commerce experiences.",
-			"Use PHP, JavaScript, HTML, and CSS to solve practical client problems.",
+			"Use PHP, JavaScript, HTML, CSS, and database-driven logic to solve practical client problems.",
 		],
 	},
 	{
@@ -383,9 +383,9 @@ function App() {
 								</span>
 							</h1>
 							<p className="hero-intro">
-								I'm Rezwanul Haque — a web developer focused on custom WordPress
-								development, responsive frontend interfaces, and e-commerce
-								experiences that work as well as they look.
+								I'm Rezwanul Haque — a full-stack developer focused on custom
+								WordPress development, responsive frontend interfaces, and
+								e-commerce experiences that work as well as they look.
 							</p>
 							<div className="hero-actions">
 								<a className="button button-primary" href="#work">
