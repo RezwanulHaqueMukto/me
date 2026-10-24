@@ -592,7 +592,7 @@ function App() {
 						<p className="skills-note">
 							<span className="note-symbol">↳</span> Also familiar with ACF,
 							Kirki, Codestar, Bootstrap, Tailwind CSS, jQuery, SCSS, AJAX,
-							MySQL, and Bricks Builder.
+							MySQL, Elementor Pro, and Bricks Builder.
 						</p>
 					</div>
 				</section>
