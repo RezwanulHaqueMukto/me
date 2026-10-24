@@ -1570,7 +1570,11 @@ h1 {
   .project-content p,
   .skill-card p,
   .contact-subtitle {
-    font-size: 10px;
+    font-size: 12px;
+  }
+
+  .skill-card p {
+    font-size: 11px;
   }
 
   .nav-contact {
