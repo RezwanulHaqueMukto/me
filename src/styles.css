@@ -1582,20 +1582,20 @@ h1 {
 
   .hero-kicker {
     margin-top: 28px;
-    font-size: 9px;
+    font-size: 10px;
   }
 
   h1 {
     max-width: 620px;
-    font-size: clamp(28px, 8vw, 42px);
+    font-size: clamp(30px, 9vw, 46px);
     letter-spacing: -0.04em;
     word-spacing: 0;
   }
 
   .hero-intro {
     max-width: 560px;
-    font-size: 14px;
-    line-height: 1.7;
+    font-size: 15px;
+    line-height: 1.75;
   }
 
   .hero-footnote {
