@@ -536,7 +536,7 @@ function App() {
 							<div className="about-aside">
 								<div className="stat-block">
 									<strong>
-										4<span>+</span>
+										3<span>+</span>
 									</strong>
 									<span>
 										years working with
