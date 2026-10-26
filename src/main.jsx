@@ -373,7 +373,7 @@ function App() {
 								OPPORTUNITIES
 							</div>
 							<p className="hero-kicker">
-								WORDPRESS · FULLSTACK · CUSTOM BUILDS
+								WORDPRESS · FULL STACK · CUSTOM BUILDS
 							</p>
 							<h1>
 								I turn complex ideas into{" "}
@@ -383,7 +383,7 @@ function App() {
 								</span>
 							</h1>
 							<p className="hero-intro">
-								I'm Rezwanul Haque — a full-stack developer focused on custom
+								I'm Rezwanul Haque — a full stack developer focused on custom
 								WordPress development, responsive frontend interfaces, and
 								e-commerce experiences that work as well as they look.
 							</p>
